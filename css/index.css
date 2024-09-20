@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+/* navbar */
+.navbar {
+    background-color: rgba(32, 32, 32, 0.904); /* Verde pastel claro */
+}
+
+.navbar-brand {
+    background-color: white;
+    display: inline-block;
+    padding: 10px 15px;
+    border: 1px solid white;
+    border-radius: 25px;
+    color: rgba(25, 26, 25, 0.904) !important; /* Verde pastel */
+    text-decoration: none;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-collapse {
+    justify-content: center;
+}
+
+.sociais a {
+    color: white;
+    text-decoration: none;
+}
+
+/* footer */
+footer h5 {
+    text-align: center;
+    color: rgba(19, 20, 19, 0.904); /* Verde pastel */
+}
+
+footer p {
+    text-align: justify;
+}
+
+footer li {
+    text-align: center;
+}
+
+footer svg {
+    text-align: center;
+}
+
+/* body */
+.container h5 {
+    color: rgba(2, 2, 2, 0.904); /* Verde pastel */
+}
+
+.container2 h2, .container3 h2 {
+    text-align: center;
+    color: rgba(8, 8, 8, 0.904);
+}
+
+/* Cards */
+.card-title {
+    color: rgba(233, 233, 233, 0.904); /* Verde pastel mais escuro */
+}
+
+.btn-primary {
+    background-color: rgba(150, 208, 150, 0.904); /* Verde pastel */
+    border-color: rgba(100, 150, 100, 0.904); /* Verde pastel mais escuro */
+}
+
+.btn-primary:hover {
+    background-color: rgba(120, 180, 120, 0.904); /* Tom levemente mais escuro */
+}
